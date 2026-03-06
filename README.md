@@ -4,6 +4,11 @@ A **production-grade SaaS dashboard application** built with React, Vite, TypeSc
 
 **GitHub**: https://github.com/bannuakash/saas-dashboard-assessment
 
+## Live Demo 
+
+https://saas-dashboard-assessment-taupe.vercel.app/
+
+
 ---
 
 ## 📋 Table of Contents
