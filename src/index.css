@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+* {
+  @apply box-border;
+}
+
+body {
+  @apply m-0 font-sans text-gray-900 antialiased;
+}
+
+html,
+body,
+#root {
+  @apply h-full;
+}
+
+@supports (-webkit-touch-callout: none) {
+  body {
+    @apply h-screen;
+  }
+}
